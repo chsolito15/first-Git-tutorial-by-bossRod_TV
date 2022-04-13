@@ -45,3 +45,9 @@ nav ul li{
     width: 150px;
     cursor: pointer;
 }
+
+.btn-login{
+    width: 100px;
+    height: 50px;
+    margin-right: 2px;
+}
